@@ -28,4 +28,4 @@ UCI Online Retail dataset (UK‑retail transaction records). Pre‑proce
 
 Python ‑ Pandas, NumPy, Matplotlib, Scikit‑learn (Machine‑Learning modelling); Microsoft Excel ‑ initial dataset preparation, calculated‑column creation
 ---
-Prepared by Shumaila
+## Prepared by Shumaila
