@@ -23,7 +23,9 @@ UCI Online Retail dataset (UK‑retail transaction records). Pre‑proce
 ‑ online_retail_clean.csv ‑ cleaned‑transaction dataset
 ‑ rmse_comparison_chart.png ‑ RMSE‑comparison bar‑chart
 ‑ project_summary.txt ‑ brief‑experiment note
-Note: The cleaned CSV file is not included in‑repo due to file‑size limits. The analysis script contains all pre‑processing steps; the original public dataset is the UCI Online Retail dataset from the UCI Machine‑Learning Repository.
+
+## Note:
+The cleaned CSV file is not included in‑repo due to file‑size limits. The analysis script contains all pre‑processing steps; the original public dataset is the UCI Online Retail dataset from the UCI Machine‑Learning Repository.
 
 ## Tools used:
 
