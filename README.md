@@ -24,6 +24,8 @@ UCI Online Retail dataset (UK‑retail transaction records). Pre‑proce
 ‑ rmse_comparison_chart.png ‑ RMSE‑comparison bar‑chart
 ‑ project_summary.txt ‑ brief‑experiment note
 
-Tools used: Python ‑ Pandas, NumPy, Matplotlib, Scikit‑learn (Machine‑Learning modelling); Microsoft Excel ‑ initial dataset preparation, calculated‑column creation
+## Tools used:
+
+Python ‑ Pandas, NumPy, Matplotlib, Scikit‑learn (Machine‑Learning modelling); Microsoft Excel ‑ initial dataset preparation, calculated‑column creation
 ---
 Prepared by Shumaila
