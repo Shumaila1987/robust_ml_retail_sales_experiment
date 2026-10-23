@@ -1,0 +1,9 @@
+
+Mini‑Project: Robust‑ML retail‑sales prediction test
+Dataset: Online‑Retail UCI transaction dataset (UK‑focused)
+Goal: Compare prediction‑error between baseline Decision‑Tree and supposedly‑robust Random‑Forest when introducing controlled data defects.
+Key experiment findings:
+ ‑ Both models handled moderate missing‑Quantity values well (low RMSE)
+ ‑ Prediction error increased greatly once Unit‑Price outliers were present
+ ‑ In this run, baseline Decision‑Tree had slightly‑lower overall RMSE than Random‑Forest (unexpected result; suggests further tuning needed for forest model)
+Files: robust_analysis.py, online_retail_clean.csv, rmse_comparison_chart.png
